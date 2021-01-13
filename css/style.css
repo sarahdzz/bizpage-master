@@ -1006,10 +1006,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #clients img {
-  max-width: 100%;
+  max-width: 50%;
   opacity: 0.5;
   transition: 0.3s;
   padding: 15px 0;
+  margin: auto;
 }
 
 #clients img:hover {
